@@ -473,150 +473,20 @@ h1 {
   background: url(../img/maslow-wifi.jpg) no-repeat center center fixed;
 }
 
-#Ratcatcher {
-  background: url(../img/rat-catcher.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-#Switchboard {
-  background: url(../img/bell-system-switchboard.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-#Janeway {
-  background: url(../img/kathryn-janeway.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-#WEFSkillsDemand {
-  background: url(../img/WEF-future-demand.png) no-repeat center center fixed;
-}
-
-#TayAI {
-  background: url(../img/tayai.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-#SevenTypesJobs {
-  background: url(../img/7-types-jobs.png) no-repeat center center fixed;
-}
-
-#DistopiaUtopia {
-  background: url(../img/a-line-of-smileys-vector-clipart.png) no-repeat center center fixed;
-}
-
 #FourthIndustrialRevolution {
   background: url(../img/fourth-industrial-revolution.png) no-repeat center center fixed;
 }
 
-#IBMWatson {
-  background: url(../img/watson-logo.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+#IoT {
+  background: url(../img/IoT.png) no-repeat center center fixed;
 }
 
-#SelfDriving {
-  background: url(../img/self-driving.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+#IFTTT {
+  background: url(../img/ifttt-recipes.png) no-repeat center center fixed;
 }
 
-#McDonaldsTouchscreen {
-  background: url(../img/mcdonalds-touchscreen.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-#Generators {
-  background: url(../img/generators.png) no-repeat center center fixed;
-}
-
-#Artisans {
-  background: url(../img/artisans.png) no-repeat center center fixed;
-}
-
-#VirtualRealityHost {
-  background: url(../img/osvr-performer.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-#House {
-  background: url(../img/3D-house.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-#Carers {
-  background: url(../img/carers.png) no-repeat center center fixed;
-}
-
-#EndOfLife {
-  background: url(../img/end-of-life-care-planner.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-#Informers {
-  background: url(../img/informers.png) no-repeat center center fixed;
-}
-
-#Videoconference {
-  background: url(../img/videoconferencing.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-#Coordinators {
-  background: url(../img/coordinators.png) no-repeat center center fixed;
-}
-
-#Designers {
-  background: url(../img/designers.png) no-repeat center center fixed;
-}
-
-#GeneticRepair {
-  background: url(../img/genetic-repair.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-#Technologists {
-  background: url(../img/technologist.png) no-repeat center center fixed;
-}
-
-#MargaretHamilton {
-  background: url(../img/margaret-hamilton.jpg) no-repeat center center fixed;
-}
-
-
-
-#ProductivityWagesGrowth {
-  background: url(../img/productivity-vs-wages-growth.jpg) no-repeat center center fixed;
-}
-
-#KnowledgeExpiry {
-  background: url(../img/socrates.jpg) no-repeat center center fixed;
-}
-
-.Z3988 {
-  font-size: 70%;
-  font-weight: 100;
+#SmartCity {
+  background: url(../img/smartcity.jpg) no-repeat center center fixed;
 }
 
 
